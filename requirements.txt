@@ -1,0 +1,6 @@
+torch
+torchvision
+matplotlib
+opencv-python
+scikit-image
+tensorboard
